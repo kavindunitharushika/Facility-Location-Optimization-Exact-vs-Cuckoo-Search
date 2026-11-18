@@ -2,7 +2,7 @@
 
 **University of Ruhuna | Department of Mathematics | April 2026**
 
-**Project Type:** Undergraduate Group Research Project  
+**Project Type:** Undergraduate Group Project  
 **Programming Language:** MATLAB  
 **Research Area:** Operations Research and Mathematical Optimization
 
